@@ -18,5 +18,15 @@
     "Klantachternaam": "14",
     "Bedrijfsnaam": "14",
     "Telefoonnummer": "14"
+  },
+  {
+    "KlantId": 15,
+    "Mailaddres": "15",
+    "Wachtwoord": "15",
+    "Klantvoornaam": "15",
+    "Tussenvoegsel": "15",
+    "Klantachternaam": "15",
+    "Bedrijfsnaam": "15",
+    "Telefoonnummer": "15"
   }
 ]
