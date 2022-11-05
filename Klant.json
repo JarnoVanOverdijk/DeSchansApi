@@ -1,0 +1,22 @@
+[
+  {
+    "KlantId": 13,
+    "Mailaddres": "13",
+    "Wachtwoord": "test",
+    "Klantvoornaam": "13",
+    "Tussenvoegsel": "13",
+    "Klantachternaam": "13",
+    "Bedrijfsnaam": "13",
+    "Telefoonnummer": "13"
+  },
+  {
+    "KlantId": 14,
+    "Mailaddres": "14",
+    "Wachtwoord": "14",
+    "Klantvoornaam": "14",
+    "Tussenvoegsel": "14",
+    "Klantachternaam": "14",
+    "Bedrijfsnaam": "14",
+    "Telefoonnummer": "14"
+  }
+]
