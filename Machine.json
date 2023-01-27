@@ -22,5 +22,13 @@
     "Urenstand": "2400",
     "Locatie": "empty",
     "KlantId": "1"
+  },
+    {
+    "SerienummerId": 9,
+    "Serienummer": "25K331213",
+    "Bouwjaar": "2025",
+    "Urenstand": "-2520",
+    "Locatie": "empty",
+    "KlantId": "1"
   }
 ]
