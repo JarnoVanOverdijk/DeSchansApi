@@ -1,32 +1,11 @@
 [
   {
-    "KlantId": 13,
-    "Mailaddres": "13",
-    "Wachtwoord": "test",
-    "Klantvoornaam": "13",
-    "Tussenvoegsel": "13",
-    "Klantachternaam": "13",
-    "Bedrijfsnaam": "13",
-    "Telefoonnummer": "13"
-  },
-  {
-    "KlantId": 14,
-    "Mailaddres": "14",
-    "Wachtwoord": "14",
-    "Klantvoornaam": "14",
-    "Tussenvoegsel": "14",
-    "Klantachternaam": "14",
-    "Bedrijfsnaam": "14",
-    "Telefoonnummer": "14"
-  },
-  {
-    "KlantId": 15,
-    "Mailaddres": "15",
-    "Wachtwoord": "15",
-    "Klantvoornaam": "15",
-    "Tussenvoegsel": "15",
-    "Klantachternaam": "15",
-    "Bedrijfsnaam": "15",
-    "Telefoonnummer": "15"
+    "KlantId": 1,
+    "Mailaddres": "jarno@gmail.com",
+    "Klantvoornaam": "Jarno",
+    "Tussenvoegsel": "van",
+    "Klantachternaam": "Overdijk",
+    "Bedrijfsnaam": "Dsave",
+    "Telefoonnummer": "0621848434"
   }
 ]
