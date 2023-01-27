@@ -1,26 +1,18 @@
 [
   {
-    "SerienummerId": 6,
-    "Serienummer": "10K82211",
-    "Bouwjaar": "1998",
-    "Urenstand": "5010",
-    "Locatie": "-23134123, 123123",
-    "KlantId": "14"
+    "SerienummerId": 1,
+    "Serienummer": "R15E6776",
+    "Bouwjaar": "2023",
+    "Urenstand": "10",
+    "Locatie": "empty",
+    "KlantId": "1"
   },
   {
-    "SerienummerId": 7,
-    "Serienummer": "10K82219",
-    "Bouwjaar": "1998",
-    "Urenstand": "5010",
-    "Locatie": "-23134123, 123123",
-    "KlantId": "14"
-  },
-  {
-    "SerienummerId": 8,
-    "Serienummer": "10K83219",
-    "Bouwjaar": "1998",
-    "Urenstand": "5010",
-    "Locatie": "-23134123, 123123",
-    "KlantId": "13"
+    "SerienummerId": 2,
+    "Serienummer": "R18D99391",
+    "Bouwjaar": "2020",
+    "Urenstand": "25",
+    "Locatie": "empty",
+    "KlantId": "1"
   }
 ]
