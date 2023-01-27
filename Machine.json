@@ -1,7 +1,7 @@
 [
   {
     "SerienummerId": 1,
-    "Serienummer": "R13E6776",
+    "Serienummer": "R13E18838",
     "Bouwjaar": "2023",
     "Urenstand": "10",
     "Locatie": "empty",
@@ -12,6 +12,14 @@
     "Serienummer": "R18D99391",
     "Bouwjaar": "2020",
     "Urenstand": "25",
+    "Locatie": "empty",
+    "KlantId": "1"
+  },
+  {
+    "SerienummerId": 3,
+    "Serienummer": "12K38090",
+    "Bouwjaar": "2018",
+    "Urenstand": "2400",
     "Locatie": "empty",
     "KlantId": "1"
   }
